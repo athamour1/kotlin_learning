@@ -1,3 +1,10 @@
+
+/*global variable systanx*/
+val version: Int = 69
+
+/*if you want to have a null variable*/
+var greeting: String? = null
+
 fun main() {
     println("\n")
     val name: String = "Thanos"
@@ -12,5 +19,10 @@ fun main() {
     println(x)
     println("\n")
 
+    println(version)
+    println("\n")
 
+    greeting = "Hellow there you litle"
+    println(greeting)
+    greeting = null
 }

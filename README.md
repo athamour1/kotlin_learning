@@ -7,9 +7,10 @@ In this repo i want to explore kotlin language
 - 1_kotlin_variables
 - 2_flow_control
 - 3_functions
+- 4_Arrays
 
 ## sources
-- https://www.youtube.com/watch?v=F9UC9DY-vIU 9:18 / 2:38:30
+- https://www.youtube.com/watch?v=F9UC9DY-vIU 46:20 / 2:38:30
 - https://kotlinlang.org/docs/reference/
 
 ## music

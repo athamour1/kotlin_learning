@@ -8,6 +8,7 @@ In this repo i want to explore kotlin language
 - 2_flow_control
 - 3_functions
 - 4_Arrays
+- 5_Classes
 
 ## sources
 - https://www.youtube.com/watch?v=F9UC9DY-vIU 1:00:09 / 2:38:30

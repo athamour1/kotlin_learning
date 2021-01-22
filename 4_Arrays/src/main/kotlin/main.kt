@@ -1,7 +1,17 @@
-fun sayHello(greetings: String, itemsToGreet:List<String>){
+fun sayHello(greeting: String, itemsToGreet:List<String>){
     itemsToGreet.forEach { itemsToGreet ->
-        println("$greetings $itemsToGreet")
+        println("$greeting $itemsToGreet")
     }
+}
+
+fun sayHello2 (greeting: String, vararg itemsToGreet:String){
+    itemsToGreet.forEach { itemsToGreet ->
+        println("$greeting $itemsToGreet")
+    }
+}
+
+fun greetingPerson(greeting: String = "Hi", name: String = "Kotlin"){
+    println("$greeting $name")
 }
 
 fun main() {
@@ -53,6 +63,16 @@ fun main() {
     }
     println("\n")
     sayHello("hello", InterstingThings2)
+    println("\n")
+    sayHello2("hello", *InterstingThings)
+    println("\n")
+    greetingPerson(greeting = "Hello", name = "Thano" )
+    println("\n")
+    greetingPerson(name = "Thano", greeting = "Hello")
+    println("\n")
+    greetingPerson(name = "Thano")
+    println("\n")
+    greetingPerson(greeting = "Hello")
     println("\n")
     val map = mutableMapOf(1 to "a", 2 to "b", 3 to "C")
     map.forEach { key, value -> println("$key -> $value")  }

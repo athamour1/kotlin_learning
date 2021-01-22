@@ -10,7 +10,7 @@ In this repo i want to explore kotlin language
 - 4_Arrays
 
 ## sources
-- https://www.youtube.com/watch?v=F9UC9DY-vIU 46:20 / 2:38:30
+- https://www.youtube.com/watch?v=F9UC9DY-vIU 1:00:09 / 2:38:30
 - https://kotlinlang.org/docs/reference/
 
 ## music

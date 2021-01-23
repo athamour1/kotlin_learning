@@ -11,7 +11,7 @@ In this repo i want to explore kotlin language
 - 5_Classes
 
 ## sources
-- https://www.youtube.com/watch?v=F9UC9DY-vIU 1:00:09 / 2:38:30
+- https://www.youtube.com/watch?v=F9UC9DY-vIU 1:10:09 / 2:38:30
 - https://kotlinlang.org/docs/reference/
 
 ## music
